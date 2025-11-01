@@ -1,368 +1,17 @@
 {
-  "PACKAGES_PIXEL_6": [
-    "com.facebook.rvx1"
-  ],
-  "PACKAGES_PIXEL_6_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 6",
-    "MANUFACTURER": "Google",
-    "MODEL": "Pixel 6",
-    "FINGERPRINT": "google/oriole/oriole:14/AP1A.240505.005/11642435:user/release-keys",
-    "PRODUCT": "Pixel 6",
-    "BOARD": "oriole",
-    "HARDWARE": "oriole",
-    "BOOTLOADER": "g5123b-1.1-10842813",
-    "DISPLAY": "AP1A.240505.005",
-    "ID": "AP1A.240505.005",
-    "INCREMENTAL": "11642435",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-05-05"
-  },
-  "PACKAGES_PIXEL_6_PRO": [
-    "com.facebook.rvx2"
-  ],
-  "PACKAGES_PIXEL_6_PRO_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 6 Pro",
-    "MANUFACTURER": "Google",
-    "MODEL": "Pixel 6 Pro",
-    "FINGERPRINT": "google/raven/raven:14/AP1A.240505.005/11642435:user/release-keys",
-    "PRODUCT": "Pixel 6 Pro",
-    "BOARD": "raven",
-    "HARDWARE": "raven",
-    "BOOTLOADER": "g5123b-1.1-10842813",
-    "DISPLAY": "AP1A.240505.005",
-    "ID": "AP1A.240505.005",
-    "INCREMENTAL": "11642435",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-05-05"
-  },
-  "PACKAGES_PIXEL_6A": [
-    "com.facebook.rvx3"
-  ],
-  "PACKAGES_PIXEL_6A_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 6a",
-    "MANUFACTURER": "Google",
-    "MODEL": "Pixel 6a",
-    "FINGERPRINT": "google/bluejay/bluejay:14/AP1A.240505.005/11642435:user/release-keys",
-    "PRODUCT": "Pixel 6a",
-    "BOARD": "bluejay",
-    "HARDWARE": "bluejay",
-    "BOOTLOADER": "b533-0.4-10811914",
-    "DISPLAY": "AP1A.240505.005",
-    "ID": "AP1A.240505.005",
-    "INCREMENTAL": "11642435",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-05-05"
-  },
-  "PACKAGES_PIXEL_7": [
-    "com.facebook.rvx4"
-  ],
-  "PACKAGES_PIXEL_7_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 7",
-    "MANUFACTURER": "Google",
-    "MODEL": "Pixel 7",
-    "FINGERPRINT": "google/panther/panther:14/AP1A.240505.005/11642435:user/release-keys",
-    "PRODUCT": "Pixel 7",
-    "BOARD": "panther",
-    "HARDWARE": "panther",
-    "BOOTLOADER": "g5300-2.0-10811915",
-    "DISPLAY": "AP1A.240505.005",
-    "ID": "AP1A.240505.005",
-    "INCREMENTAL": "11642435",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-05-05"
-  },
-  "PACKAGES_PIXEL_7_PRO": [
-    "com.facebook.rvx5"
-  ],
-  "PACKAGES_PIXEL_7_PRO_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 7 Pro",
-    "MANUFACTURER": "Google",
-    "MODEL": "Pixel 7 Pro",
-    "FINGERPRINT": "google/cheetah/cheetah:14/AP1A.240505.005/11642435:user/release-keys",
-    "PRODUCT": "Pixel 7 Pro",
-    "BOARD": "cheetah",
-    "HARDWARE": "cheetah",
-    "BOOTLOADER": "g5300-2.0-10811915",
-    "DISPLAY": "AP1A.240505.005",
-    "ID": "AP1A.240505.005",
-    "INCREMENTAL": "11642435",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-05-05"
-  },
-  "PACKAGES_PIXEL_7A": [
-    "com.facebook.rvx6"
-  ],
-  "PACKAGES_PIXEL_7A_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 7a",
-    "MANUFACTURER": "Google",
-    "MODEL": "Pixel 7a",
-    "FINGERPRINT": "google/lynx/lynx:14/AP1A.240505.005/11642435:user/release-keys",
-    "PRODUCT": "Pixel 7a",
-    "BOARD": "lynx",
-    "HARDWARE": "lynx",
-    "BOOTLOADER": "g5300-2.0-10811915",
-    "DISPLAY": "AP1A.240505.005",
-    "ID": "AP1A.240505.005",
-    "INCREMENTAL": "11642435",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-05-05"
-  },
-  "PACKAGES_PIXEL_8": [
-    "com.facebook.rvx7"
-  ],
-  "PACKAGES_PIXEL_8_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 8",
-    "MANUFACTURER": "Google",
-    "MODEL": "Pixel 8",
-    "FINGERPRINT": "google/shiba/shiba:14/AP1A.240505.005/11642435:user/release-keys",
-    "PRODUCT": "Pixel 8",
-    "BOARD": "shiba",
-    "HARDWARE": "shiba",
-    "BOOTLOADER": "g5300-2.0-10811915",
-    "DISPLAY": "AP1A.240505.005",
-    "ID": "AP1A.240505.005",
-    "INCREMENTAL": "11642435",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-05-05"
-  },
-  "PACKAGES_PIXEL_8_PRO": [
-    "com.facebook.rvx8"
-  ],
-  "PACKAGES_PIXEL_8_PRO_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 8 Pro",
-    "MANUFACTURER": "Google",
-    "MODEL": "Pixel 8 Pro",
-    "FINGERPRINT": "google/husky/husky:14/AP1A.240505.005/11642435:user/release-keys",
-    "PRODUCT": "Pixel 8 Pro",
-    "BOARD": "husky",
-    "HARDWARE": "husky",
-    "BOOTLOADER": "g5300-2.0-10811915",
-    "DISPLAY": "AP1A.240505.005",
-    "ID": "AP1A.240505.005",
-    "INCREMENTAL": "11642435",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-05-05"
-  },
-  "PACKAGES_GALAXY_S22": [
-    "com.facebook.rvx9"
-  ],
-  "PACKAGES_GALAXY_S22_DEVICE": {
-    "BRAND": "samsung",
-    "DEVICE": "Galaxy S22",
-    "MANUFACTURER": "Samsung",
-    "MODEL": "SM-S901B",
-    "FINGERPRINT": "samsung/r0qxxx/r0q:14/UP1A.231005.007/S901BXXS7DWL1:user/release-keys",
-    "PRODUCT": "Galaxy S22",
-    "BOARD": "s22",
-    "HARDWARE": "s22",
-    "BOOTLOADER": "S901BXXS7DWL1",
-    "DISPLAY": "UP1A.231005.007",
-    "ID": "UP1A.231005.007",
-    "INCREMENTAL": "S901BXXS7DWL1",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-04-01"
-  },
-  "PACKAGES_GALAXY_S22_PLUS": [
-    "com.facebook.rvx10"
-  ],
-  "PACKAGES_GALAXY_S22_PLUS_DEVICE": {
-    "BRAND": "samsung",
-    "DEVICE": "Galaxy S22+",
-    "MANUFACTURER": "Samsung",
-    "MODEL": "SM-S906B",
-    "FINGERPRINT": "samsung/g0qxxx/g0q:14/UP1A.231005.007/S906BXXS7DWL1:user/release-keys",
-    "PRODUCT": "Galaxy S22+",
-    "BOARD": "s22plus",
-    "HARDWARE": "s22plus",
-    "BOOTLOADER": "S906BXXS7DWL1",
-    "DISPLAY": "UP1A.231005.007",
-    "ID": "UP1A.231005.007",
-    "INCREMENTAL": "S906BXXS7DWL1",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-04-01"
-  },
-  "PACKAGES_GALAXY_S22_ULTRA": [
-    "com.facebook.rvx11"
-  ],
-  "PACKAGES_GALAXY_S22_ULTRA_DEVICE": {
-    "BRAND": "samsung",
-    "DEVICE": "Galaxy S22 Ultra",
-    "MANUFACTURER": "Samsung",
-    "MODEL": "SM-S908B",
-    "FINGERPRINT": "samsung/b0qxxx/b0q:14/UP1A.231005.007/S908BXXS7DWL1:user/release-keys",
-    "PRODUCT": "Galaxy S22 Ultra",
-    "BOARD": "s22ultra",
-    "HARDWARE": "s22ultra",
-    "BOOTLOADER": "S908BXXS7DWL1",
-    "DISPLAY": "UP1A.231005.007",
-    "ID": "UP1A.231005.007",
-    "INCREMENTAL": "S908BXXS7DWL1",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-04-01"
-  },
-  "PACKAGES_GALAXY_S23": [
-    "com.facebook.rvx12"
-  ],
-  "PACKAGES_GALAXY_S23_DEVICE": {
-    "BRAND": "samsung",
-    "DEVICE": "Galaxy S23",
-    "MANUFACTURER": "Samsung",
-    "MODEL": "SM-S911B",
-    "FINGERPRINT": "samsung/dm1qxxx/dm1q:14/UP1A.231005.007/S911BXXS3AWJM:user/release-keys",
-    "PRODUCT": "Galaxy S23",
-    "BOARD": "s23",
-    "HARDWARE": "s23",
-    "BOOTLOADER": "S911BXXS3AWJM",
-    "DISPLAY": "UP1A.231005.007",
-    "ID": "UP1A.231005.007",
-    "INCREMENTAL": "S911BXXS3AWJM",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-05-01"
-  },
-  "PACKAGES_GALAXY_S23_PLUS": [
-    "com.facebook.rvx13"
-  ],
-  "PACKAGES_GALAXY_S23_PLUS_DEVICE": {
-    "BRAND": "samsung",
-    "DEVICE": "Galaxy S23+",
-    "MANUFACTURER": "Samsung",
-    "MODEL": "SM-S916B",
-    "FINGERPRINT": "samsung/dm2qxxx/dm2q:14/UP1A.231005.007/S916BXXS3AWJM:user/release-keys",
-    "PRODUCT": "Galaxy S23+",
-    "BOARD": "s23plus",
-    "HARDWARE": "s23plus",
-    "BOOTLOADER": "S916BXXS3AWJM",
-    "DISPLAY": "UP1A.231005.007",
-    "ID": "UP1A.231005.007",
-    "INCREMENTAL": "S916BXXS3AWJM",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-05-01"
-  },
-  "PACKAGES_GALAXY_S23_ULTRA": [
-    "com.facebook.rvx14"
-  ],
-  "PACKAGES_GALAXY_S23_ULTRA_DEVICE": {
-    "BRAND": "samsung",
-    "DEVICE": "Galaxy S23 Ultra",
-    "MANUFACTURER": "Samsung",
-    "MODEL": "SM-S918B",
-    "FINGERPRINT": "samsung/dm3qxxx/dm3q:14/UP1A.231005.007/S918BXXS3AWJM:user/release-keys",
-    "PRODUCT": "Galaxy S23 Ultra",
-    "BOARD": "s23ultra",
-    "HARDWARE": "s23ultra",
-    "BOOTLOADER": "S918BXXS3AWJM",
-    "DISPLAY": "UP1A.231005.007",
-    "ID": "UP1A.231005.007",
-    "INCREMENTAL": "S918BXXS3AWJM",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-05-01"
-  },
-  "PACKAGES_GALAXY_Z_FOLD5": [
-    "com.facebook.rvx15"
-  ],
-  "PACKAGES_GALAXY_Z_FOLD5_DEVICE": {
-    "BRAND": "samsung",
-    "DEVICE": "Galaxy Z Fold5",
-    "MANUFACTURER": "Samsung",
-    "MODEL": "SM-F946B",
-    "FINGERPRINT": "samsung/q5qxxx/q5q:14/UP1A.231005.007/F946BXXS2AWL5:user/release-keys",
-    "PRODUCT": "Galaxy Z Fold5",
-    "BOARD": "q5q",
-    "HARDWARE": "q5q",
-    "BOOTLOADER": "F946BXXS2AWL5",
-    "DISPLAY": "UP1A.231005.007",
-    "ID": "UP1A.231005.007",
-    "INCREMENTAL": "F946BXXS2AWL5",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-04-01"
-  },
-  "PACKAGES_GALAXY_Z_FLIP5": [
-    "com.facebook.rvx16"
-  ],
-  "PACKAGES_GALAXY_Z_FLIP5_DEVICE": {
-    "BRAND": "samsung",
-    "DEVICE": "Galaxy Z Flip5",
-    "MANUFACTURER": "Samsung",
-    "MODEL": "SM-F731B",
-    "FINGERPRINT": "samsung/q5qxxx/q5q:14/UP1A.231005.007/F731BXXS2AWL5:user/release-keys",
-    "PRODUCT": "Galaxy Z Flip5",
-    "BOARD": "q5c",
-    "HARDWARE": "q5c",
-    "BOOTLOADER": "F731BXXS2AWL5",
-    "DISPLAY": "UP1A.231005.007",
-    "ID": "UP1A.231005.007",
-    "INCREMENTAL": "F731BXXS2AWL5",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-04-01"
-  },
-  "PACKAGES_GALAXY_A54_5G": [
-    "com.facebook.rvx17"
-  ],
-  "PACKAGES_GALAXY_A54_5G_DEVICE": {
-    "BRAND": "samsung",
-    "DEVICE": "Galaxy A54 5G",
-    "MANUFACTURER": "Samsung",
-    "MODEL": "SM-A546B",
-    "FINGERPRINT": "samsung/a54xeea/a54:14/UP1A.231005.007/A546BXXS6BWL2:user/release-keys",
-    "PRODUCT": "Galaxy A54 5G",
-    "BOARD": "a54",
-    "HARDWARE": "a54",
-    "BOOTLOADER": "A546BXXS6BWL2",
-    "DISPLAY": "UP1A.231005.007",
-    "ID": "UP1A.231005.007",
-    "INCREMENTAL": "A546BXXS6BWL2",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-03-01"
-  },
-  "PACKAGES_GALAXY_A34_5G": [
-    "com.facebook.rvx18"
-  ],
-  "PACKAGES_GALAXY_A34_5G_DEVICE": {
-    "BRAND": "samsung",
-    "DEVICE": "Galaxy A34 5G",
-    "MANUFACTURER": "Samsung",
-    "MODEL": "SM-A346B",
-    "FINGERPRINT": "samsung/a34xeea/a34:14/UP1A.231005.007/A346BXXU5CWL1:user/release-keys",
-    "PRODUCT": "Galaxy A34 5G",
-    "BOARD": "a34",
-    "HARDWARE": "a34",
-    "BOOTLOADER": "A346BXXU5CWL1",
-    "DISPLAY": "UP1A.231005.007",
-    "ID": "UP1A.231005.007",
-    "INCREMENTAL": "A346BXXU5CWL1",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-03-01"
-  },
-  "PACKAGES_FIND_N2": [
+  "PACKAGES_BLACK_SHARK_4_(CHINA)": [
     "com.facebook.rvx19"
   ],
-  "PACKAGES_FIND_N2_DEVICE": {
-    "BRAND": "oppo",
-    "DEVICE": "Find N2",
-    "MANUFACTURER": "Oppo",
-    "MODEL": "PGEM10",
-    "FINGERPRINT": "OPPO/PGEM10/OP4F2BL1:14/UKQ1.230917.001/S.202403251012:user/release-keys",
-    "PRODUCT": "Find N2",
-    "BOARD": "porsche",
-    "HARDWARE": "porsche",
-    "BOOTLOADER": "PGEM10_11_A.09",
-    "DISPLAY": "PGEM10_14.0.0.80(CN01)",
-    "ID": "UKQ1.230917.001",
-    "INCREMENTAL": "S.202403251012",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-03-05"
+  "PACKAGES_BLACK_SHARK_4_(CHINA)_DEVICE": {
+    "BRAND": "Black Shark",
+    "DEVICE": "Black Shark 4 (China)",
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "2SM-X706B",
+    "FINGERPRINT": "BlackShark/PRS-H0/Black Shark 4:13/TQ3A.230805.001/20230315:user/release-keys",
+    "PRODUCT": "2SM-X706B"
   },
   "PACKAGES_FIND_N2_FLIP": [
-    "com.facebook.rvx20",
-    "flar2.devcheck"
+    "com.facebook.rvx20"
   ],
   "PACKAGES_FIND_N2_FLIP_DEVICE": {
     "BRAND": "oppo",
@@ -370,53 +19,7 @@
     "MANUFACTURER": "Oppo",
     "MODEL": "PGFM10",
     "FINGERPRINT": "OPPO/PGFM10/OP4F88L1:14/UKQ1.230917.001/T.202403221530:user/release-keys",
-    "PRODUCT": "Find N2 Flip",
-    "BOARD": "lamborghini",
-    "HARDWARE": "lamborghini",
-    "BOOTLOADER": "PGFM10_11_A.11",
-    "DISPLAY": "PGFM10_14.0.0.501(CN01)",
-    "ID": "UKQ1.230917.001",
-    "INCREMENTAL": "T.202403221530",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-03-05"
-  },
-  "PACKAGES_FIND_X6": [
-    "com.facebook.rvx21"
-  ],
-  "PACKAGES_FIND_X6_DEVICE": {
-    "BRAND": "oppo",
-    "DEVICE": "Find X6",
-    "MANUFACTURER": "Oppo",
-    "MODEL": "PHF110",
-    "FINGERPRINT": "OPPO/PHF110/OP5255L1:14/UKQ1.230917.001/Q.202404151745:user/release-keys",
-    "PRODUCT": "Find X6",
-    "BOARD": "phoenix",
-    "HARDWARE": "phoenix",
-    "BOOTLOADER": "PHF110_11_A.25",
-    "DISPLAY": "PHF110_14.0.0.503(CN01)",
-    "ID": "UKQ1.230917.001",
-    "INCREMENTAL": "Q.202404151745",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-04-05"
-  },
-  "PACKAGES_FIND_X6_PRO": [
-    "com.facebook.rvx22"
-  ],
-  "PACKAGES_FIND_X6_PRO_DEVICE": {
-    "BRAND": "oppo",
-    "DEVICE": "Find X6 Pro",
-    "MANUFACTURER": "Oppo",
-    "MODEL": "PHM110",
-    "FINGERPRINT": "OPPO/PHM110/OP5255L1:14/UKQ1.230917.001/S.202404161830:user/release-keys",
-    "PRODUCT": "Find X6 Pro",
-    "BOARD": "mandrill",
-    "HARDWARE": "mandrill",
-    "BOOTLOADER": "PHM110_11_A.21",
-    "DISPLAY": "PHM110_14.0.0.601(CN01)",
-    "ID": "UKQ1.230917.001",
-    "INCREMENTAL": "S.202404161830",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-04-05"
+    "PRODUCT": "Find N2 Flip"
   },
   "PACKAGES_FIND_X5": [
     "com.facebook.rvx23"
@@ -427,34 +30,350 @@
     "MANUFACTURER": "Oppo",
     "MODEL": "PHN110",
     "FINGERPRINT": "OPPO/PHN110/OP4F2BL1:14/UKQ1.230917.001/R.202404121100:user/release-keys",
-    "PRODUCT": "Find X5",
-    "BOARD": "leopard",
-    "HARDWARE": "leopard",
-    "BOOTLOADER": "PHN110_11_C.23",
-    "DISPLAY": "PHN110_14.0.0.502(CN01)",
-    "ID": "UKQ1.230917.001",
-    "INCREMENTAL": "R.202404121100",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-04-05"
+    "PRODUCT": "Find X5"
   },
-  "PACKAGES_RENO10_PRO_5G": [
-    "com.facebook.rvx24"
+  "PACKAGES_FIND_X6": [
+    "com.facebook.rvx21"
   ],
-  "PACKAGES_RENO10_PRO_5G_DEVICE": {
+  "PACKAGES_FIND_X6_DEVICE": {
     "BRAND": "oppo",
-    "DEVICE": "Reno10 Pro 5G",
+    "DEVICE": "Find X6",
     "MANUFACTURER": "Oppo",
-    "MODEL": "CPH2529",
-    "FINGERPRINT": "OPPO/CPH2529/OP5255L1:14/UKQ1.230917.001/S.202403150900:user/release-keys",
-    "PRODUCT": "Reno10 Pro 5G",
-    "BOARD": "martini",
-    "HARDWARE": "martini",
-    "BOOTLOADER": "CPH2529_11_A.18",
-    "DISPLAY": "CPH2529_14.0.0.301(EX01)",
-    "ID": "UKQ1.230917.001",
-    "INCREMENTAL": "S.202403150900",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-03-05"
+    "MODEL": "PHF110",
+    "FINGERPRINT": "OPPO/PHF110/OP5255L1:14/UKQ1.230917.001/Q.202404151745:user/release-keys",
+    "PRODUCT": "Find X6"
+  },
+  "PACKAGES_FIND_X6_PRO": [
+    "com.facebook.rvx22"
+  ],
+  "PACKAGES_FIND_X6_PRO_DEVICE": {
+    "BRAND": "oppo",
+    "DEVICE": "Find X6 Pro",
+    "MANUFACTURER": "Oppo",
+    "MODEL": "PHM110",
+    "FINGERPRINT": "OPPO/PHM110/OP5255L1:14/UKQ1.230917.001/S.202404161830:user/release-keys",
+    "PRODUCT": "Find X6 Pro"
+  },
+  "PACKAGES_GALAXY_A54_5G": [],
+  "PACKAGES_GALAXY_A54_5G_DEVICE": {
+    "BRAND": "samsung",
+    "DEVICE": "Galaxy A54 5G",
+    "MANUFACTURER": "Samsung",
+    "MODEL": "SM-A546B",
+    "FINGERPRINT": "samsung/a54xeea/a54:14/UP1A.231005.007/A546BXXS6BWL2:user/release-keys",
+    "PRODUCT": "Galaxy A54 5G"
+  },
+  "PACKAGES_GALAXY_S22": [
+    "com.facebook.rvx9"
+  ],
+  "PACKAGES_GALAXY_S22_DEVICE": {
+    "BRAND": "samsung",
+    "DEVICE": "Galaxy S22",
+    "MANUFACTURER": "Samsung",
+    "MODEL": "SM-S901B",
+    "FINGERPRINT": "samsung/r0qxxx/r0q:14/UP1A.231005.007/S901BXXS7DWL1:user/release-keys",
+    "PRODUCT": "Galaxy S22"
+  },
+  "PACKAGES_GALAXY_S22_PLUS": [
+    "com.facebook.rvx10"
+  ],
+  "PACKAGES_GALAXY_S22_PLUS_DEVICE": {
+    "BRAND": "samsung",
+    "DEVICE": "Galaxy S22+",
+    "MANUFACTURER": "Samsung",
+    "MODEL": "SM-S906B",
+    "FINGERPRINT": "samsung/g0qxxx/g0q:14/UP1A.231005.007/S906BXXS7DWL1:user/release-keys",
+    "PRODUCT": "Galaxy S22+"
+  },
+  "PACKAGES_GALAXY_S22_ULTRA": [
+    "com.facebook.rvx11"
+  ],
+  "PACKAGES_GALAXY_S22_ULTRA_DEVICE": {
+    "BRAND": "samsung",
+    "DEVICE": "Galaxy S22 Ultra",
+    "MANUFACTURER": "Samsung",
+    "MODEL": "SM-S908B",
+    "FINGERPRINT": "samsung/b0qxxx/b0q:14/UP1A.231005.007/S908BXXS7DWL1:user/release-keys",
+    "PRODUCT": "Galaxy S22 Ultra"
+  },
+  "PACKAGES_GALAXY_S23": [
+    "com.facebook.rvx12"
+  ],
+  "PACKAGES_GALAXY_S23_DEVICE": {
+    "BRAND": "samsung",
+    "DEVICE": "Galaxy S23",
+    "MANUFACTURER": "Samsung",
+    "MODEL": "SM-S911B",
+    "FINGERPRINT": "samsung/dm1qxxx/dm1q:14/UP1A.231005.007/S911BXXS3AWJM:user/release-keys",
+    "PRODUCT": "Galaxy S23"
+  },
+  "PACKAGES_GALAXY_S23_PLUS": [
+    "com.facebook.rvx13"
+  ],
+  "PACKAGES_GALAXY_S23_PLUS_DEVICE": {
+    "BRAND": "samsung",
+    "DEVICE": "Galaxy S23+",
+    "MANUFACTURER": "Samsung",
+    "MODEL": "SM-S916B",
+    "FINGERPRINT": "samsung/dm2qxxx/dm2q:14/UP1A.231005.007/S916BXXS3AWJM:user/release-keys",
+    "PRODUCT": "Galaxy S23+"
+  },
+  "PACKAGES_GALAXY_S23_ULTRA": [
+    "com.facebook.rvx14"
+  ],
+  "PACKAGES_GALAXY_S23_ULTRA_DEVICE": {
+    "BRAND": "samsung",
+    "DEVICE": "Galaxy S23 Ultra",
+    "MANUFACTURER": "Samsung",
+    "MODEL": "SM-S918B",
+    "FINGERPRINT": "samsung/dm3qxxx/dm3q:14/UP1A.231005.007/S918BXXS3AWJM:user/release-keys",
+    "PRODUCT": "Galaxy S23 Ultra"
+  },
+  "PACKAGES_GALAXY_Z_FLIP5": [
+    "com.facebook.rvx16"
+  ],
+  "PACKAGES_GALAXY_Z_FLIP5_DEVICE": {
+    "BRAND": "samsung",
+    "DEVICE": "Galaxy Z Flip5",
+    "MANUFACTURER": "Samsung",
+    "MODEL": "SM-F731B",
+    "FINGERPRINT": "samsung/q5qxxx/q5q:14/UP1A.231005.007/F731BXXS2AWL5:user/release-keys",
+    "PRODUCT": "Galaxy Z Flip5"
+  },
+  "PACKAGES_GALAXY_Z_FOLD5": [
+    "com.facebook.rvx15"
+  ],
+  "PACKAGES_GALAXY_Z_FOLD5_DEVICE": {
+    "BRAND": "samsung",
+    "DEVICE": "Galaxy Z Fold5",
+    "MANUFACTURER": "Samsung",
+    "MODEL": "SM-F946B",
+    "FINGERPRINT": "samsung/q5qxxx/q5q:14/UP1A.231005.007/F946BXXS2AWL5:user/release-keys",
+    "PRODUCT": "Galaxy Z Fold5"
+  },
+  "PACKAGES_LEGION_Y700_(2023)": [],
+  "PACKAGES_LEGION_Y700_(2023)_DEVICE": {
+    "BRAND": "Lenovo",
+    "DEVICE": "Legion Y700 (2023)",
+    "MANUFACTURER": "Lenovo",
+    "MODEL": "TB-9707F",
+    "FINGERPRINT": "Lenovo/TB-9707F/Lenovo TB-9707F:13/TQ3A.230805.001/20230901:user/release-keys",
+    "PRODUCT": "TB-9707F"
+  },
+  "PACKAGES_ONEPLUS_13": [],
+  "PACKAGES_ONEPLUS_13_DEVICE": {
+    "BRAND": "OnePlus",
+    "DEVICE": "OnePlus 13",
+    "MANUFACTURER": "OnePlus",
+    "MODEL": "PJZ110",
+    "FINGERPRINT": "OnePlus/PJZ110/OP5D0DL1:15/AP3A.240617.008/V.1bd19a1-1-2:user/release-keys",
+    "PRODUCT": "PJZ110"
+  },
+  "PACKAGES_ONEPLUS_8_PRO_5G": [],
+  "PACKAGES_ONEPLUS_8_PRO_5G_DEVICE": {
+    "BRAND": "OnePlus",
+    "DEVICE": "OnePlus 8 Pro 5G",
+    "MANUFACTURER": "OnePlus",
+    "MODEL": "IN2023",
+    "FINGERPRINT": "OnePlus/IN2023/OnePlus8Pro:13/RKQ1.211119.001/20230501:user/release-keys",
+    "PRODUCT": "IN2023"
+  },
+  "PACKAGES_PIXEL_6": [
+    "com.facebook.rvx1"
+  ],
+  "PACKAGES_PIXEL_6_DEVICE": {
+    "BRAND": "google",
+    "DEVICE": "Pixel 6",
+    "MANUFACTURER": "Google",
+    "MODEL": "Pixel 6",
+    "FINGERPRINT": "google/oriole/oriole:14/AP1A.240505.005/11642435:user/release-keys",
+    "PRODUCT": "Pixel 6"
+  },
+  "PACKAGES_PIXEL_6A": [
+    "com.facebook.rvx3"
+  ],
+  "PACKAGES_PIXEL_6A_DEVICE": {
+    "BRAND": "google",
+    "DEVICE": "Pixel 6a",
+    "MANUFACTURER": "Google",
+    "MODEL": "Pixel 6a",
+    "FINGERPRINT": "google/bluejay/bluejay:14/AP1A.240505.005/11642435:user/release-keys",
+    "PRODUCT": "Pixel 6a"
+  },
+  "PACKAGES_PIXEL_6_PRO": [
+    "com.facebook.rvx2"
+  ],
+  "PACKAGES_PIXEL_6_PRO_DEVICE": {
+    "BRAND": "google",
+    "DEVICE": "Pixel 6 Pro",
+    "MANUFACTURER": "Google",
+    "MODEL": "Pixel 6 Pro",
+    "FINGERPRINT": "google/raven/raven:14/AP1A.240505.005/11642435:user/release-keys",
+    "PRODUCT": "Pixel 6 Pro"
+  },
+  "PACKAGES_PIXEL_7": [
+    "com.facebook.rvx4"
+  ],
+  "PACKAGES_PIXEL_7_DEVICE": {
+    "BRAND": "google",
+    "DEVICE": "Pixel 7",
+    "MANUFACTURER": "Google",
+    "MODEL": "Pixel 7",
+    "FINGERPRINT": "google/panther/panther:14/AP1A.240505.005/11642435:user/release-keys",
+    "PRODUCT": "Pixel 7"
+  },
+  "PACKAGES_PIXEL_7A": [
+    "com.facebook.rvx6"
+  ],
+  "PACKAGES_PIXEL_7A_DEVICE": {
+    "BRAND": "google",
+    "DEVICE": "Pixel 7a",
+    "MANUFACTURER": "Google",
+    "MODEL": "Pixel 7a",
+    "FINGERPRINT": "google/lynx/lynx:14/AP1A.240505.005/11642435:user/release-keys",
+    "PRODUCT": "Pixel 7a"
+  },
+  "PACKAGES_PIXEL_7_PRO": [
+    "com.facebook.rvx5"
+  ],
+  "PACKAGES_PIXEL_7_PRO_DEVICE": {
+    "BRAND": "google",
+    "DEVICE": "Pixel 7 Pro",
+    "MANUFACTURER": "Google",
+    "MODEL": "Pixel 7 Pro",
+    "FINGERPRINT": "google/cheetah/cheetah:14/AP1A.240505.005/11642435:user/release-keys",
+    "PRODUCT": "Pixel 7 Pro"
+  },
+  "PACKAGES_PIXEL_8": [
+    "com.facebook.rvx7"
+  ],
+  "PACKAGES_PIXEL_8_DEVICE": {
+    "BRAND": "google",
+    "DEVICE": "Pixel 8",
+    "MANUFACTURER": "Google",
+    "MODEL": "Pixel 8",
+    "FINGERPRINT": "google/shiba/shiba:14/AP1A.240505.005/11642435:user/release-keys",
+    "PRODUCT": "Pixel 8"
+  },
+  "PACKAGES_PIXEL_8_PRO": [
+    "com.facebook.rvx8"
+  ],
+  "PACKAGES_PIXEL_8_PRO_DEVICE": {
+    "BRAND": "google",
+    "DEVICE": "Pixel 8 Pro",
+    "MANUFACTURER": "Google",
+    "MODEL": "Pixel 8 Pro",
+    "FINGERPRINT": "google/husky/husky:14/AP1A.240505.005/11642435:user/release-keys",
+    "PRODUCT": "Pixel 8 Pro"
+  },
+  "PACKAGES_PIXEL_9_PRO": [],
+  "PACKAGES_PIXEL_9_PRO_DEVICE": {
+    "BRAND": "google",
+    "DEVICE": "Pixel 9 Pro",
+    "MANUFACTURER": "Google",
+    "MODEL": "Caiman",
+    "FINGERPRINT": "google/caiman/caiman:15/AP2A.240805.005/12847291:user/release-keys",
+    "PRODUCT": "caiman"
+  },
+  "PACKAGES_PIXEL_9_PRO_FOLD": [
+    "com.facebook.thoitiet"
+  ],
+  "PACKAGES_PIXEL_9_PRO_FOLD_DEVICE": {
+    "BRAND": "google",
+    "DEVICE": "Pixel 9 Pro Fold",
+    "MANUFACTURER": "Google",
+    "MODEL": "Comet",
+    "FINGERPRINT": "google/comet/comet:15/AP2A.240805.005/11677807:user/release-keys",
+    "PRODUCT": "comet"
+  },
+  "PACKAGES_PIXEL_9_PRO_XL": [],
+  "PACKAGES_PIXEL_9_PRO_XL_DEVICE": {
+    "BRAND": "google",
+    "DEVICE": "Pixel 9 Pro XL",
+    "MANUFACTURER": "Google",
+    "MODEL": "Pixel 9 Pro XL",
+    "FINGERPRINT": "google/komodo/komodo:16/BP3A.250905.014/13873947:user/release-keys",
+    "PRODUCT": "komodo"
+  },
+  "PACKAGES_PIXEL_10_PRO_XL": [
+    "com.facebook.ksht"
+  ],
+  "PACKAGES_PIXEL_10_PRO_XL_DEVICE": {
+    "BRAND": "google",
+    "DEVICE": "Pixel 10 Pro XL",
+    "MANUFACTURER": "Google",
+    "MODEL": "Pixel 10 Pro XL",
+    "FINGERPRINT": "google/mustang/mustang:16/BD3A.250721.001/13808258:user/release-keys",
+    "PRODUCT": "Pixel 10 Pro XL"
+  },
+  "PACKAGES_PIXEL_FOLD": [],
+  "PACKAGES_PIXEL_FOLD_DEVICE": {
+    "BRAND": "google",
+    "DEVICE": "Pixel Fold",
+    "MANUFACTURER": "Google",
+    "MODEL": "Felix",
+    "FINGERPRINT": "google/felix/felix:15/AP2A.240805.005/11677807:user/release-keys",
+    "PRODUCT": "felix"
+  },
+  "PACKAGES_PIXEL_TABLET": [],
+  "PACKAGES_PIXEL_TABLET_DEVICE": {
+    "BRAND": "google",
+    "DEVICE": "Pixel Tablet",
+    "MANUFACTURER": "Google",
+    "MODEL": "Tangorpro",
+    "FINGERPRINT": "google/tangorpro/tangorpro:15/AP2A.240805.005/11677807:user/release-keys",
+    "PRODUCT": "tangorpro"
+  },
+  "PACKAGES_POCO_F5": [],
+  "PACKAGES_POCO_F5_DEVICE": {
+    "BRAND": "POCO",
+    "DEVICE": "POCO F5",
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "23049PCD8G",
+    "FINGERPRINT": "POCO/23049PCD8G/POCOF5:13/TQ3A.230805.001/20230620:user/release-keys",
+    "PRODUCT": "23049PCD8G"
+  },
+  "PACKAGES_REALME_15_PRO_5G": [
+    "flar2.devcheck"
+  ],
+  "PACKAGES_REALME_15_PRO_5G_DEVICE": {
+    "BRAND": "realme",
+    "DEVICE": "Realme 15 Pro 5G",
+    "MANUFACTURER": "realme",
+    "MODEL": "RMX5101",
+    "FINGERPRINT": "realme/RMX5101IN/RE60B4L1:15/AP3A.240617.008/V.R4T2.26cec0e-80bb4e-80b757:user/release-keys",
+    "PRODUCT": "RMX5101"
+  },
+  "PACKAGES_REALME_P3_5G": [],
+  "PACKAGES_REALME_P3_5G_DEVICE": {
+    "BRAND": "realme",
+    "DEVICE": "Realme P3 5G",
+    "MANUFACTURER": "realme",
+    "MODEL": "RMX5070",
+    "FINGERPRINT": "realme/RMX5070/RMX5070:15/SKQ1.230119.001/eng.user.20250415.155201:user/release-keys",
+    "PRODUCT": "RMX5070"
+  },
+  "PACKAGES_REDMAGIC_9_PRO": [
+    "com.facebook.rvx18"
+  ],
+  "PACKAGES_REDMAGIC_9_PRO_DEVICE": {
+    "BRAND": "nubia",
+    "MANUFACTURER": "nubia",
+    "DEVICE": "NX769J",
+    "PRODUCT": "NX769J_V1A",
+    "MODEL": "NX769J",
+    "FINGERPRINT": "nubia/NX769J_V1A/NX769J:15/UKQ1.231201.001/20240329.181258:user/release-keys"
+  },
+  "PACKAGES_REDMAGIC_10_PRO": [
+    "com.facebook.tod"
+  ],
+  "PACKAGES_REDMAGIC_10_PRO_DEVICE": {
+    "BRAND": "nubia",
+    "DEVICE": "RedMagic 10 Pro",
+    "MANUFACTURER": "ZTE",
+    "MODEL": "NX789J",
+    "FINGERPRINT": "nubia/NX789J-UN/NX789J:15/AQ3A.240812.002/20241212.194919:user/release-keys",
+    "PRODUCT": "NX789J"
   },
   "PACKAGES_RENO8_PRO_5G": [
     "com.facebook.rvx25"
@@ -465,275 +384,80 @@
     "MANUFACTURER": "Oppo",
     "MODEL": "CPH2483",
     "FINGERPRINT": "OPPO/CPH2483/OP5255L1:14/UKQ1.230917.001/T.202404021200:user/release-keys",
-    "PRODUCT": "Reno8 Pro 5G",
-    "BOARD": "polar",
-    "HARDWARE": "polar",
-    "BOOTLOADER": "CPH2483_11_C.15",
-    "DISPLAY": "CPH2483_14.0.0.500(EX01)",
-    "ID": "UKQ1.230917.001",
-    "INCREMENTAL": "T.202404021200",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-04-05"
+    "PRODUCT": "Reno8 Pro 5G"
   },
-  "PACKAGES_X90": [
-    "com.facebook.rvx26"
+  "PACKAGES_RENO10_PRO_5G": [],
+  "PACKAGES_RENO10_PRO_5G_DEVICE": {
+    "BRAND": "oppo",
+    "DEVICE": "Reno10 Pro 5G",
+    "MANUFACTURER": "Oppo",
+    "MODEL": "CPH2529",
+    "FINGERPRINT": "OPPO/CPH2529/OP5255L1:14/UKQ1.230917.001/S.202403150900:user/release-keys",
+    "PRODUCT": "Reno10 Pro 5G"
+  },
+  "PACKAGES_ROG_PHONE_6D_ULTIMATE": [
+    "com.kiwibrowser.browser"
   ],
-  "PACKAGES_X90_DEVICE": {
-    "BRAND": "vivo",
-    "DEVICE": "X90",
-    "MANUFACTURER": "Vivo",
-    "MODEL": "X90",
-    "FINGERPRINT": "vivo/v2218a/v2218a:14/UP1A.231005.007/PD2241_A_13.0.10.2:user/release-keys",
-    "PRODUCT": "X90",
-    "BOARD": "v2218a",
-    "HARDWARE": "v2218a",
-    "BOOTLOADER": "PD2241-A-13.0.10.2",
-    "DISPLAY": "PD2241F_EX_A_14.0.6.0.W30",
-    "ID": "UP1A.231005.007",
-    "INCREMENTAL": "PD2241_A_13.0.10.2",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-04-01"
+  "PACKAGES_ROG_PHONE_6D_ULTIMATE_DEVICE": {
+    "BRAND": "ASUS",
+    "DEVICE": "ROG Phone 6D Ultimate",
+    "MANUFACTURER": "ASUS",
+    "MODEL": "AI2203",
+    "FINGERPRINT": "ASUS/AI2203/ROG Phone 6D:14/UP1A.231005.007/20240315:user/release-keys",
+    "PRODUCT": "AI2203"
   },
-  "PACKAGES_X90_PRO": [
-    "com.facebook.rvx27"
-  ],
-  "PACKAGES_X90_PRO_DEVICE": {
-    "BRAND": "vivo",
-    "DEVICE": "X90 Pro",
-    "MANUFACTURER": "Vivo",
-    "MODEL": "X90 Pro",
-    "FINGERPRINT": "vivo/v2219a/v2219a:14/UP1A.231005.007/PD2242_B_13.0.12.5:user/release-keys",
-    "PRODUCT": "X90 Pro",
-    "BOARD": "v2219a",
-    "HARDWARE": "v2219a",
-    "BOOTLOADER": "PD2242-B-13.0.12.5",
-    "DISPLAY": "PD2242F_EX_B_14.0.7.1.W30",
-    "ID": "UP1A.231005.007",
-    "INCREMENTAL": "PD2242_B_13.0.12.5",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-04-01"
-  },
-  "PACKAGES_X90_PRO_PLUS": [
-    "com.facebook.rvx28"
-  ],
-  "PACKAGES_X90_PRO_PLUS_DEVICE": {
-    "BRAND": "vivo",
-    "DEVICE": "X90 Pro+",
-    "MANUFACTURER": "Vivo",
-    "MODEL": "X90 Pro+",
-    "FINGERPRINT": "vivo/v2220a/v2220a:14/UP1A.231005.007/PD2220_C_14.0.1.8:user/release-keys",
-    "PRODUCT": "X90 Pro+",
-    "BOARD": "v2220a",
-    "HARDWARE": "v2220a",
-    "BOOTLOADER": "PD2220-C-14.0.1.8",
-    "DISPLAY": "PD2220F_EX_C_14.0.8.2.W30",
-    "ID": "UP1A.231005.007",
-    "INCREMENTAL": "PD2220_C_14.0.1.8",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-05-01"
-  },
-  "PACKAGES_Y78_5G": [
-    "com.facebook.rvx29"
-  ],
-  "PACKAGES_Y78_5G_DEVICE": {
-    "BRAND": "vivo",
-    "DEVICE": "Y78 5G",
-    "MANUFACTURER": "Vivo",
-    "MODEL": "Y78 5G",
-    "FINGERPRINT": "vivo/v2278/v2278:14/UP1A.231005.007/PD2243_A_13.1.9.0:user/release-keys",
-    "PRODUCT": "Y78 5G",
-    "BOARD": "v2278",
-    "HARDWARE": "v2278",
-    "BOOTLOADER": "PD2243-A-13.1.9.0",
-    "DISPLAY": "PD2243F_EX_A_14.1.5.0.W30",
-    "ID": "UP1A.231005.007",
-    "INCREMENTAL": "PD2243_A_13.1.9.0",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-02-01"
-  },
-  "PACKAGES_PIXEL_9_PRO": [],
-  "PACKAGES_PIXEL_9_PRO_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 9 Pro",
-    "MANUFACTURER": "Google",
-    "MODEL": "Caiman",
-    "FINGERPRINT": "google/caiman/caiman:15/AP2A.240805.005/12847291:user/release-keys",
-    "PRODUCT": "caiman",
-    "BOARD": "caiman",
-    "HARDWARE": "caiman",
-    "BOOTLOADER": "g5300-3.0-12847291",
-    "DISPLAY": "AP2A.240805.005",
-    "ID": "AP2A.240805.005",
-    "INCREMENTAL": "12847291",
-    "RELEASE": "15",
-    "SDK": "35",
-    "SECURITY_PATCH": "2024-08-05"
-  },
-  "PACKAGES_PIXEL_9_PRO_FOLD": [
-    "com.kiwibrowser.browser",
-    "com.facebook.thoitiet"
-  ],
-  "PACKAGES_PIXEL_9_PRO_FOLD_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 9 Pro Fold",
-    "MANUFACTURER": "Google",
-    "MODEL": "Comet",
-    "FINGERPRINT": "google/comet/comet:15/AP2A.240805.005/11677807:user/release-keys",
-    "PRODUCT": "comet",
-    "BOARD": "comet",
-    "HARDWARE": "comet",
-    "BOOTLOADER": "g5300-3.0-11677807",
-    "DISPLAY": "AP2A.240805.005",
-    "ID": "AP2A.240805.005",
-    "INCREMENTAL": "11677807",
-    "RELEASE": "15",
-    "SDK": "35",
-    "SECURITY_PATCH": "2024-08-05"
-  },
-  "PACKAGES_PIXEL_9_PRO_XL": [
-  ],
-  "PACKAGES_PIXEL_9_PRO_XL_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 9 Pro XL",
-    "MANUFACTURER": "Google",
-    "MODEL": "Pixel 9 Pro XL",
-    "FINGERPRINT": "google/komodo/komodo:16/BP3A.250905.014/13873947:user/release-keys",
-    "PRODUCT": "komodo",
-    "BOARD": "komodo",
-    "HARDWARE": "zumapro",
-    "BOOTLOADER": "ripcurrentpro-16.3-13642544",
-    "DISPLAY": "",
-    "ID": "BP3A.250905.014",
-    "INCREMENTAL": "13873947",
-    "RELEASE": "16",
-    "SDK": "36",
-    "SECURITY_PATCH": "2025-09-05"
-  },
-  "PACKAGES_PIXEL_FOLD": [],
-  "PACKAGES_PIXEL_FOLD_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel Fold",
-    "MANUFACTURER": "Google",
-    "MODEL": "Felix",
-    "FINGERPRINT": "google/felix/felix:15/AP2A.240805.005/11677807:user/release-keys",
-    "PRODUCT": "felix",
-    "BOARD": "felix",
-    "HARDWARE": "felix",
-    "BOOTLOADER": "g5300-2.0-10811915",
-    "DISPLAY": "AP2A.240805.005",
-    "ID": "AP2A.240805.005",
-    "INCREMENTAL": "11677807",
-    "RELEASE": "15",
-    "SDK": "35",
-    "SECURITY_PATCH": "2024-08-05"
-  },
-  "PACKAGES_PIXEL_TABLET": [],
-  "PACKAGES_PIXEL_TABLET_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel Tablet",
-    "MANUFACTURER": "Google",
-    "MODEL": "Tangorpro",
-    "FINGERPRINT": "google/tangorpro/tangorpro:15/AP2A.240805.005/11677807:user/release-keys",
-    "PRODUCT": "tangorpro",
-    "BOARD": "tangorpro",
-    "HARDWARE": "tangorpro",
-    "BOOTLOADER": "g5300-2.0-10811915",
-    "DISPLAY": "AP2A.240805.005",
-    "ID": "AP2A.240805.005",
-    "INCREMENTAL": "11677807",
-    "RELEASE": "15",
-    "SDK": "35",
-    "SECURITY_PATCH": "2024-08-05"
-  },
-  "PACKAGES_REDMAGIC_9_PRO": [],
-  "PACKAGES_REDMAGIC_9_PRO_DEVICE": {
-    "BRAND": "nubia",
-    "MANUFACTURER": "nubia",
-    "DEVICE": "NX769J",
-    "PRODUCT": "NX769J_V1A",
-    "MODEL": "NX769J",
-    "FINGERPRINT": "nubia/NX769J_V1A/NX769J:15/UKQ1.231201.001/20240329.181258:user/release-keys",
-    "BOARD": "pineapple",
-    "HARDWARE": "pineapple",
-    "BOOTLOADER": "unknown",
-    "DISPLAY": "REDMAGICOS_V9.0.12",
-    "ID": "UKQ1.231201.001",
-    "INCREMENTAL": "20240329.181258",
-    "RELEASE": "15",
-    "SDK": "35",
-    "SECURITY_PATCH": "2024-03-01"
-  },
-  "PACKAGES_Y100": [],
-  "PACKAGES_Y100_DEVICE": {
-    "BRAND": "vivo",
-    "DEVICE": "Y100",
-    "MANUFACTURER": "Vivo",
-    "MODEL": "Y100",
-    "FINGERPRINT": "vivo/v2239/v2239:14/UP1A.231005.007/PD2239_B_13.2.8.1:user/release-keys",
-    "PRODUCT": "Y100",
-    "BOARD": "v2239",
-    "HARDWARE": "v2239",
-    "BOOTLOADER": "PD2239-B-13.2.8.1",
-    "DISPLAY": "PD2239F_EX_B_14.2.4.0.W30",
-    "ID": "UP1A.231005.007",
-    "INCREMENTAL": "PD2239_B_13.2.8.1",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-03-01"
-  },
-  "PACKAGES_VIVO_X60_CHINA": [
-    "com.facebook.tod"
-  ],
+  "PACKAGES_VIVO_X60_CHINA": [],
   "PACKAGES_VIVO_X60_CHINA_DEVICE": {
     "BRAND": "vivo",
     "DEVICE": "X60",
     "MANUFACTURER": "Vivo",
     "MODEL": "V2046A",
     "FINGERPRINT": "vivo/v2046a/v2046a:14/UP1A.231005.007/PD2046_A_8.73.9:user/release-keys",
-    "PRODUCT": "X60",
-    "BOARD": "v2046a",
-    "HARDWARE": "v2046a",
-    "BOOTLOADER": "PD2046_A_8.73.9",
-    "DISPLAY": "OriginOS 4.0",
-    "ID": "UP1A.231005.007",
-    "INCREMENTAL": "compiler03201825",
-    "RELEASE": "14",
-    "SECURITY_PATCH": "2024-03-01"
+    "PRODUCT": "X60"
   },
-  "PACKAGES_HUAWEI_MATE_10": [
-    "com.facebook.ksht"
-  ],
-  "PACKAGES_HUAWEI_MATE_10_DEVICE": {
-    "BRAND": "huawei",
-    "DEVICE": "Mate 10",
-    "MANUFACTURER": "Huawei",
-    "MODEL": "ALP-L29",
-    "FINGERPRINT": "HUAWEI/ALP-L29/HWALP:10/HUAWEIALP-L29/10.0.0.185C432:user/release-keys",
-    "PRODUCT": "ALP-L29",
-    "BOARD": "alp-l29",
-    "HARDWARE": "kirin970",
-    "BOOTLOADER": "unknown",
-    "DISPLAY": "ALP-L29 10.0.0.185(C432E7R1P1)",
-    "ID": "HUAWEIALP-L29",
-    "INCREMENTAL": "C432E7R1P1",
-    "RELEASE": "10",
-    "SECURITY_PATCH": "2021-08-01"
+  "PACKAGES_X90": [],
+  "PACKAGES_X90_DEVICE": {
+    "BRAND": "vivo",
+    "DEVICE": "X90",
+    "MANUFACTURER": "Vivo",
+    "MODEL": "X90",
+    "FINGERPRINT": "vivo/v2218a/v2218a:14/UP1A.231005.007/PD2241_A_13.0.10.2:user/release-keys",
+    "PRODUCT": "X90"
   },
-  "PACKAGES_PIXEL_10_PRO_XL": [],
-  "PACKAGES_PIXEL_10_PRO_XL_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 10 Pro XL",
-    "MANUFACTURER": "Google",
-    "MODEL": "Pixel 10 Pro XL",
-    "FINGERPRINT": "google/mustang/mustang:16/BD3A.250721.001/13808258:user/release-keys",
-    "PRODUCT": "Pixel 10 Pro XL",
-    "BOARD": "",
-    "HARDWARE": "",
-    "BOOTLOADER": "",
-    "DISPLAY": "BD3A.250721.001",
-    "ID": "BD3A.250721.001",
-    "INCREMENTAL": "13808258",
-    "RELEASE": "16",
-    "SDK": "36",
-    "SECURITY_PATCH": "2025-08-05"
+  "PACKAGES_X90_PRO": [],
+  "PACKAGES_X90_PRO_DEVICE": {
+    "BRAND": "vivo",
+    "DEVICE": "X90 Pro",
+    "MANUFACTURER": "Vivo",
+    "MODEL": "X90 Pro",
+    "FINGERPRINT": "vivo/v2219a/v2219a:14/UP1A.231005.007/PD2242_B_13.0.12.5:user/release-keys",
+    "PRODUCT": "X90 Pro"
+  },
+  "PACKAGES_X90_PRO_PLUS": [],
+  "PACKAGES_X90_PRO_PLUS_DEVICE": {
+    "BRAND": "vivo",
+    "DEVICE": "X90 Pro+",
+    "MANUFACTURER": "Vivo",
+    "MODEL": "X90 Pro+",
+    "FINGERPRINT": "vivo/v2220a/v2220a:14/UP1A.231005.007/PD2220_C_14.0.1.8:user/release-keys",
+    "PRODUCT": "X90 Pro+"
+  },
+  "PACKAGES_XIAOMI_11T_PRO": [],
+  "PACKAGES_XIAOMI_11T_PRO_DEVICE": {
+    "BRAND": "Xiaomi",
+    "DEVICE": "Xiaomi 11T Pro",
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "2107113SG",
+    "FINGERPRINT": "Xiaomi/2107113SI/Mi 11T Pro:13/RKQ1.211001.001/20230410:user/release-keys",
+    "PRODUCT": "2107113SG"
+  },
+  "PACKAGES_Y78_5G": [],
+  "PACKAGES_Y78_5G_DEVICE": {
+    "BRAND": "vivo",
+    "DEVICE": "Y78 5G",
+    "MANUFACTURER": "Vivo",
+    "MODEL": "Y78 5G",
+    "FINGERPRINT": "vivo/v2278/v2278:14/UP1A.231005.007/PD2243_A_13.1.9.0:user/release-keys",
+    "PRODUCT": "Y78 5G"
   }
 }

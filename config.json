@@ -3,364 +3,317 @@
     "com.facebook.rvx19"
   ],
   "PACKAGES_BLACK_SHARK_4_(CHINA)_DEVICE": {
-    "BRAND": "Black Shark",
-    "DEVICE": "Black Shark 4 (China)",
+    "profile_name": "BLACK_SHARK_4_(CHINA)",
     "MANUFACTURER": "Xiaomi",
     "MODEL": "2SM-X706B",
-    "FINGERPRINT": "BlackShark/PRS-H0/Black Shark 4:13/TQ3A.230805.001/20230315:user/release-keys",
-    "PRODUCT": "2SM-X706B"
+    "FINGERPRINT": "BlackShark/PRS-H0/Black Shark 4:13/TQ3A.230805.001/20230315:user/release-keys"
   },
   "PACKAGES_FIND_N2_FLIP": [
     "com.facebook.rvx20"
   ],
   "PACKAGES_FIND_N2_FLIP_DEVICE": {
-    "BRAND": "oppo",
-    "DEVICE": "Find N2 Flip",
+    "profile_name": "FIND_N2_FLIP",
     "MANUFACTURER": "Oppo",
     "MODEL": "PGFM10",
-    "FINGERPRINT": "OPPO/PGFM10/OP4F88L1:14/UKQ1.230917.001/T.202403221530:user/release-keys",
-    "PRODUCT": "Find N2 Flip"
+    "FINGERPRINT": "OPPO/PGFM10/OP4F88L1:14/UKQ1.230917.001/T.202403221530:user/release-keys"
   },
   "PACKAGES_FIND_X5": [
     "com.facebook.rvx23"
   ],
   "PACKAGES_FIND_X5_DEVICE": {
-    "BRAND": "oppo",
-    "DEVICE": "Find X5",
+    "profile_name": "FIND_X5",
     "MANUFACTURER": "Oppo",
     "MODEL": "PHN110",
-    "FINGERPRINT": "OPPO/PHN110/OP4F2BL1:14/UKQ1.230917.001/R.202404121100:user/release-keys",
-    "PRODUCT": "Find X5"
+    "FINGERPRINT": "OPPO/PHN110/OP4F2BL1:14/UKQ1.230917.001/R.202404121100:user/release-keys"
   },
   "PACKAGES_FIND_X6": [
     "com.facebook.rvx21"
   ],
   "PACKAGES_FIND_X6_DEVICE": {
-    "BRAND": "oppo",
-    "DEVICE": "Find X6",
+    "profile_name": "FIND_X6",
     "MANUFACTURER": "Oppo",
     "MODEL": "PHF110",
-    "FINGERPRINT": "OPPO/PHF110/OP5255L1:14/UKQ1.230917.001/Q.202404151745:user/release-keys",
-    "PRODUCT": "Find X6"
+    "FINGERPRINT": "OPPO/PHF110/OP5255L1:14/UKQ1.230917.001/Q.202404151745:user/release-keys"
   },
   "PACKAGES_FIND_X6_PRO": [
     "com.facebook.rvx22"
   ],
   "PACKAGES_FIND_X6_PRO_DEVICE": {
-    "BRAND": "oppo",
-    "DEVICE": "Find X6 Pro",
+    "profile_name": "FIND_X6_PRO",
     "MANUFACTURER": "Oppo",
     "MODEL": "PHM110",
-    "FINGERPRINT": "OPPO/PHM110/OP5255L1:14/UKQ1.230917.001/S.202404161830:user/release-keys",
-    "PRODUCT": "Find X6 Pro"
+    "FINGERPRINT": "OPPO/PHM110/OP5255L1:14/UKQ1.230917.001/S.202404161830:user/release-keys"
   },
-  "PACKAGES_GALAXY_A54_5G": [],
+  "PACKAGES_GALAXY_A54_5G": [
+    "com.facebook.thuhong"
+  ],
   "PACKAGES_GALAXY_A54_5G_DEVICE": {
-    "BRAND": "samsung",
-    "DEVICE": "Galaxy A54 5G",
+    "profile_name": "GALAXY_A54_5G",
     "MANUFACTURER": "Samsung",
     "MODEL": "SM-A546B",
-    "FINGERPRINT": "samsung/a54xeea/a54:14/UP1A.231005.007/A546BXXS6BWL2:user/release-keys",
-    "PRODUCT": "Galaxy A54 5G"
+    "FINGERPRINT": "samsung/a54xeea/a54:14/UP1A.231005.007/A546BXXS6BWL2:user/release-keys"
   },
   "PACKAGES_GALAXY_S22": [
     "com.facebook.rvx9"
   ],
   "PACKAGES_GALAXY_S22_DEVICE": {
-    "BRAND": "samsung",
-    "DEVICE": "Galaxy S22",
+    "profile_name": "GALAXY_S22",
     "MANUFACTURER": "Samsung",
     "MODEL": "SM-S901B",
-    "FINGERPRINT": "samsung/r0qxxx/r0q:14/UP1A.231005.007/S901BXXS7DWL1:user/release-keys",
-    "PRODUCT": "Galaxy S22"
+    "FINGERPRINT": "samsung/r0qxxx/r0q:14/UP1A.231005.007/S901BXXS7DWL1:user/release-keys"
   },
   "PACKAGES_GALAXY_S22_PLUS": [
     "com.facebook.rvx10"
   ],
   "PACKAGES_GALAXY_S22_PLUS_DEVICE": {
-    "BRAND": "samsung",
-    "DEVICE": "Galaxy S22+",
+    "profile_name": "GALAXY_S22_PLUS",
     "MANUFACTURER": "Samsung",
     "MODEL": "SM-S906B",
-    "FINGERPRINT": "samsung/g0qxxx/g0q:14/UP1A.231005.007/S906BXXS7DWL1:user/release-keys",
-    "PRODUCT": "Galaxy S22+"
+    "FINGERPRINT": "samsung/g0qxxx/g0q:14/UP1A.231005.007/S906BXXS7DWL1:user/release-keys"
   },
   "PACKAGES_GALAXY_S22_ULTRA": [
     "com.facebook.rvx11"
   ],
   "PACKAGES_GALAXY_S22_ULTRA_DEVICE": {
-    "BRAND": "samsung",
-    "DEVICE": "Galaxy S22 Ultra",
+    "profile_name": "GALAXY_S22_ULTRA",
     "MANUFACTURER": "Samsung",
     "MODEL": "SM-S908B",
-    "FINGERPRINT": "samsung/b0qxxx/b0q:14/UP1A.231005.007/S908BXXS7DWL1:user/release-keys",
-    "PRODUCT": "Galaxy S22 Ultra"
+    "FINGERPRINT": "samsung/b0qxxx/b0q:14/UP1A.231005.007/S908BXXS7DWL1:user/release-keys"
   },
   "PACKAGES_GALAXY_S23": [
     "com.facebook.rvx12"
   ],
   "PACKAGES_GALAXY_S23_DEVICE": {
-    "BRAND": "samsung",
-    "DEVICE": "Galaxy S23",
+    "profile_name": "GALAXY_S23",
     "MANUFACTURER": "Samsung",
     "MODEL": "SM-S911B",
-    "FINGERPRINT": "samsung/dm1qxxx/dm1q:14/UP1A.231005.007/S911BXXS3AWJM:user/release-keys",
-    "PRODUCT": "Galaxy S23"
+    "FINGERPRINT": "samsung/dm1qxxx/dm1q:14/UP1A.231005.007/S911BXXS3AWJM:user/release-keys"
   },
   "PACKAGES_GALAXY_S23_PLUS": [
     "com.facebook.rvx13"
   ],
   "PACKAGES_GALAXY_S23_PLUS_DEVICE": {
-    "BRAND": "samsung",
-    "DEVICE": "Galaxy S23+",
+    "profile_name": "GALAXY_S23_PLUS",
     "MANUFACTURER": "Samsung",
     "MODEL": "SM-S916B",
-    "FINGERPRINT": "samsung/dm2qxxx/dm2q:14/UP1A.231005.007/S916BXXS3AWJM:user/release-keys",
-    "PRODUCT": "Galaxy S23+"
+    "FINGERPRINT": "samsung/dm2qxxx/dm2q:14/UP1A.231005.007/S916BXXS3AWJM:user/release-keys"
   },
   "PACKAGES_GALAXY_S23_ULTRA": [
-    "com.facebook.rvx14"
+    "com.facebook.rvx14",
+    "flar2.devcheck"
   ],
   "PACKAGES_GALAXY_S23_ULTRA_DEVICE": {
-    "BRAND": "samsung",
-    "DEVICE": "Galaxy S23 Ultra",
+    "profile_name": "GALAXY_S23_ULTRA",
     "MANUFACTURER": "Samsung",
     "MODEL": "SM-S918B",
     "FINGERPRINT": "samsung/dm3qxxx/dm3q:14/UP1A.231005.007/S918BXXS3AWJM:user/release-keys",
-    "PRODUCT": "Galaxy S23 Ultra"
+    "DEBUG": false
   },
   "PACKAGES_GALAXY_Z_FLIP5": [
     "com.facebook.rvx16"
   ],
   "PACKAGES_GALAXY_Z_FLIP5_DEVICE": {
-    "BRAND": "samsung",
-    "DEVICE": "Galaxy Z Flip5",
+    "profile_name": "GALAXY_Z_FLIP5",
     "MANUFACTURER": "Samsung",
     "MODEL": "SM-F731B",
-    "FINGERPRINT": "samsung/q5qxxx/q5q:14/UP1A.231005.007/F731BXXS2AWL5:user/release-keys",
-    "PRODUCT": "Galaxy Z Flip5"
+    "FINGERPRINT": "samsung/q5qxxx/q5q:14/UP1A.231005.007/F731BXXS2AWL5:user/release-keys"
   },
   "PACKAGES_GALAXY_Z_FOLD5": [
     "com.facebook.rvx15"
   ],
   "PACKAGES_GALAXY_Z_FOLD5_DEVICE": {
-    "BRAND": "samsung",
-    "DEVICE": "Galaxy Z Fold5",
+    "profile_name": "GALAXY_Z_FOLD5",
     "MANUFACTURER": "Samsung",
     "MODEL": "SM-F946B",
-    "FINGERPRINT": "samsung/q5qxxx/q5q:14/UP1A.231005.007/F946BXXS2AWL5:user/release-keys",
-    "PRODUCT": "Galaxy Z Fold5"
+    "FINGERPRINT": "samsung/q5qxxx/q5q:14/UP1A.231005.007/F946BXXS2AWL5:user/release-keys"
   },
-  "PACKAGES_LEGION_Y700_(2023)": [],
+  "PACKAGES_LEGION_Y700_(2023)": [
+    "com.facebook.thiemhue"
+  ],
   "PACKAGES_LEGION_Y700_(2023)_DEVICE": {
-    "BRAND": "Lenovo",
-    "DEVICE": "Legion Y700 (2023)",
+    "profile_name": "LEGION_Y700_(2023)",
     "MANUFACTURER": "Lenovo",
     "MODEL": "TB-9707F",
-    "FINGERPRINT": "Lenovo/TB-9707F/Lenovo TB-9707F:13/TQ3A.230805.001/20230901:user/release-keys",
-    "PRODUCT": "TB-9707F"
+    "FINGERPRINT": "Lenovo/TB-9707F/Lenovo TB-9707F:13/TQ3A.230805.001/20230901:user/release-keys"
   },
-  "PACKAGES_ONEPLUS_13": [],
+  "PACKAGES_ONEPLUS_13": [
+    "com.facebook.steven"
+  ],
   "PACKAGES_ONEPLUS_13_DEVICE": {
-    "BRAND": "OnePlus",
-    "DEVICE": "OnePlus 13",
+    "profile_name": "ONEPLUS_13",
     "MANUFACTURER": "OnePlus",
     "MODEL": "PJZ110",
-    "FINGERPRINT": "OnePlus/PJZ110/OP5D0DL1:15/AP3A.240617.008/V.1bd19a1-1-2:user/release-keys",
-    "PRODUCT": "PJZ110"
+    "FINGERPRINT": "OnePlus/PJZ110/OP5D0DL1:15/AP3A.240617.008/V.1bd19a1-1-2:user/release-keys"
   },
   "PACKAGES_ONEPLUS_8_PRO_5G": [],
   "PACKAGES_ONEPLUS_8_PRO_5G_DEVICE": {
-    "BRAND": "OnePlus",
-    "DEVICE": "OnePlus 8 Pro 5G",
+    "profile_name": "ONEPLUS_8_PRO_5G",
     "MANUFACTURER": "OnePlus",
     "MODEL": "IN2023",
-    "FINGERPRINT": "OnePlus/IN2023/OnePlus8Pro:13/RKQ1.211119.001/20230501:user/release-keys",
-    "PRODUCT": "IN2023"
+    "FINGERPRINT": "OnePlus/IN2023/OnePlus8Pro:13/RKQ1.211119.001/20230501:user/release-keys"
   },
   "PACKAGES_PIXEL_6": [
     "com.facebook.rvx1"
   ],
   "PACKAGES_PIXEL_6_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 6",
+    "profile_name": "PIXEL_6",
     "MANUFACTURER": "Google",
     "MODEL": "Pixel 6",
-    "FINGERPRINT": "google/oriole/oriole:14/AP1A.240505.005/11642435:user/release-keys",
-    "PRODUCT": "Pixel 6"
+    "FINGERPRINT": "google/oriole/oriole:14/AP1A.240505.005/11642435:user/release-keys"
   },
   "PACKAGES_PIXEL_6A": [
     "com.facebook.rvx3"
   ],
   "PACKAGES_PIXEL_6A_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 6a",
+    "profile_name": "PIXEL_6A",
     "MANUFACTURER": "Google",
     "MODEL": "Pixel 6a",
-    "FINGERPRINT": "google/bluejay/bluejay:14/AP1A.240505.005/11642435:user/release-keys",
-    "PRODUCT": "Pixel 6a"
+    "FINGERPRINT": "google/bluejay/bluejay:14/AP1A.240505.005/11642435:user/release-keys"
   },
   "PACKAGES_PIXEL_6_PRO": [
     "com.facebook.rvx2"
   ],
   "PACKAGES_PIXEL_6_PRO_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 6 Pro",
+    "profile_name": "PIXEL_6_PRO",
     "MANUFACTURER": "Google",
     "MODEL": "Pixel 6 Pro",
     "FINGERPRINT": "google/raven/raven:14/AP1A.240505.005/11642435:user/release-keys",
-    "PRODUCT": "Pixel 6 Pro"
+    "Debug": true
   },
   "PACKAGES_PIXEL_7": [
     "com.facebook.rvx4"
   ],
   "PACKAGES_PIXEL_7_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 7",
+    "profile_name": "PIXEL_7",
     "MANUFACTURER": "Google",
     "MODEL": "Pixel 7",
-    "FINGERPRINT": "google/panther/panther:14/AP1A.240505.005/11642435:user/release-keys",
-    "PRODUCT": "Pixel 7"
+    "FINGERPRINT": "google/panther/panther:14/AP1A.240505.005/11642435:user/release-keys"
   },
   "PACKAGES_PIXEL_7A": [
     "com.facebook.rvx6"
   ],
   "PACKAGES_PIXEL_7A_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 7a",
+    "profile_name": "PIXEL_7A",
     "MANUFACTURER": "Google",
     "MODEL": "Pixel 7a",
-    "FINGERPRINT": "google/lynx/lynx:14/AP1A.240505.005/11642435:user/release-keys",
-    "PRODUCT": "Pixel 7a"
+    "FINGERPRINT": "google/lynx/lynx:14/AP1A.240505.005/11642435:user/release-keys"
   },
   "PACKAGES_PIXEL_7_PRO": [
     "com.facebook.rvx5"
   ],
   "PACKAGES_PIXEL_7_PRO_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 7 Pro",
+    "profile_name": "PIXEL_7_PRO",
     "MANUFACTURER": "Google",
     "MODEL": "Pixel 7 Pro",
-    "FINGERPRINT": "google/cheetah/cheetah:14/AP1A.240505.005/11642435:user/release-keys",
-    "PRODUCT": "Pixel 7 Pro"
+    "FINGERPRINT": "google/cheetah/cheetah:14/AP1A.240505.005/11642435:user/release-keys"
   },
   "PACKAGES_PIXEL_8": [
     "com.facebook.rvx7"
   ],
   "PACKAGES_PIXEL_8_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 8",
+    "profile_name": "PIXEL_8",
     "MANUFACTURER": "Google",
     "MODEL": "Pixel 8",
-    "FINGERPRINT": "google/shiba/shiba:14/AP1A.240505.005/11642435:user/release-keys",
-    "PRODUCT": "Pixel 8"
+    "FINGERPRINT": "google/shiba/shiba:14/AP1A.240505.005/11642435:user/release-keys"
   },
   "PACKAGES_PIXEL_8_PRO": [
     "com.facebook.rvx8"
   ],
   "PACKAGES_PIXEL_8_PRO_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 8 Pro",
+    "profile_name": "PIXEL_8_PRO",
     "MANUFACTURER": "Google",
     "MODEL": "Pixel 8 Pro",
-    "FINGERPRINT": "google/husky/husky:14/AP1A.240505.005/11642435:user/release-keys",
-    "PRODUCT": "Pixel 8 Pro"
+    "FINGERPRINT": "google/husky_beta/husky:16/BP41.250916.010.A1/14281945:user/release-keys"
   },
-  "PACKAGES_PIXEL_9_PRO": [],
+  "PACKAGES_PIXEL_9_PRO": [
+    "com.facebook.phuongthao"
+  ],
   "PACKAGES_PIXEL_9_PRO_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 9 Pro",
+    "profile_name": "PIXEL_9_PRO",
     "MANUFACTURER": "Google",
     "MODEL": "Caiman",
-    "FINGERPRINT": "google/caiman/caiman:15/AP2A.240805.005/12847291:user/release-keys",
-    "PRODUCT": "caiman"
+    "FINGERPRINT": "google/caiman/caiman:15/AP2A.240805.005/12847291:user/release-keys"
   },
   "PACKAGES_PIXEL_9_PRO_FOLD": [
-    "com.facebook.thoitiet"
+    "com.facebook.phuongloan"
   ],
   "PACKAGES_PIXEL_9_PRO_FOLD_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 9 Pro Fold",
+    "profile_name": "PIXEL_9_PRO_FOLD",
     "MANUFACTURER": "Google",
-    "MODEL": "Comet",
+    "MODEL": "Pixel 9 Pro",
     "FINGERPRINT": "google/comet/comet:15/AP2A.240805.005/11677807:user/release-keys",
-    "PRODUCT": "comet"
+    "DEBUG": true
   },
-  "PACKAGES_PIXEL_9_PRO_XL": [],
+  "PACKAGES_PIXEL_9_PRO_XL": [
+    "com.facebook.thoitiet",
+    "com.facebook.katana"
+  ],
   "PACKAGES_PIXEL_9_PRO_XL_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 9 Pro XL",
+    "profile_name": "PIXEL_9_PRO_XL",
     "MANUFACTURER": "Google",
     "MODEL": "Pixel 9 Pro XL",
-    "FINGERPRINT": "google/komodo/komodo:16/BP3A.250905.014/13873947:user/release-keys",
-    "PRODUCT": "komodo"
+    "FINGERPRINT": "google/komodo/komodo:16/BP3A.251105.015/14339231:user/release-keys"
   },
   "PACKAGES_PIXEL_10_PRO_XL": [
-    "com.facebook.ksht"
+    "com.facebook.ksht",
+    "com.google.android.apps.subscriptions.red",
+    "com.facebook.orca"
   ],
   "PACKAGES_PIXEL_10_PRO_XL_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel 10 Pro XL",
+    "profile_name": "PIXEL_10_PRO_XL",
     "MANUFACTURER": "Google",
     "MODEL": "Pixel 10 Pro XL",
-    "FINGERPRINT": "google/mustang/mustang:16/BD3A.250721.001/13808258:user/release-keys",
-    "PRODUCT": "Pixel 10 Pro XL"
+    "FINGERPRINT": "google/mustang/mustang:16/BD3A.251005.003.W3/14147046:user/release-keys"
   },
-  "PACKAGES_PIXEL_FOLD": [],
+  "PACKAGES_PIXEL_FOLD": [
+    "com.facebook.chilan"
+  ],
   "PACKAGES_PIXEL_FOLD_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel Fold",
+    "profile_name": "PIXEL_FOLD",
     "MANUFACTURER": "Google",
     "MODEL": "Felix",
-    "FINGERPRINT": "google/felix/felix:15/AP2A.240805.005/11677807:user/release-keys",
-    "PRODUCT": "felix"
+    "FINGERPRINT": "google/felix/felix:15/AP2A.240805.005/11677807:user/release-keys"
   },
-  "PACKAGES_PIXEL_TABLET": [],
+  "PACKAGES_PIXEL_TABLET": [
+    "com.facebook.thuylinh"
+  ],
   "PACKAGES_PIXEL_TABLET_DEVICE": {
-    "BRAND": "google",
-    "DEVICE": "Pixel Tablet",
+    "profile_name": "PIXEL_TABLET",
     "MANUFACTURER": "Google",
     "MODEL": "Tangorpro",
-    "FINGERPRINT": "google/tangorpro/tangorpro:15/AP2A.240805.005/11677807:user/release-keys",
-    "PRODUCT": "tangorpro"
+    "FINGERPRINT": "google/tangorpro/tangorpro:16/BP3A.251005.004.A2/14042146:user/release-keys"
   },
-  "PACKAGES_POCO_F5": [],
+  "PACKAGES_POCO_F5": [
+    "com.facebook.bachloan"
+  ],
   "PACKAGES_POCO_F5_DEVICE": {
-    "BRAND": "POCO",
-    "DEVICE": "POCO F5",
+    "profile_name": "POCO_F5",
     "MANUFACTURER": "Xiaomi",
     "MODEL": "23049PCD8G",
-    "FINGERPRINT": "POCO/23049PCD8G/POCOF5:13/TQ3A.230805.001/20230620:user/release-keys",
-    "PRODUCT": "23049PCD8G"
+    "FINGERPRINT": "POCO/23049PCD8G/POCOF5:13/TQ3A.230805.001/20230620:user/release-keys"
   },
   "PACKAGES_REALME_15_PRO_5G": [
-    "flar2.devcheck"
+    "me.harrygonzalez.simcardinfo"
   ],
   "PACKAGES_REALME_15_PRO_5G_DEVICE": {
-    "BRAND": "realme",
-    "DEVICE": "Realme 15 Pro 5G",
+    "profile_name": "REALME_15_PRO_5G",
     "MANUFACTURER": "realme",
     "MODEL": "RMX5101",
-    "FINGERPRINT": "realme/RMX5101IN/RE60B4L1:15/AP3A.240617.008/V.R4T2.26cec0e-80bb4e-80b757:user/release-keys",
-    "PRODUCT": "RMX5101"
+    "FINGERPRINT": "realme/RMX5101IN/RE60B4L1:15/AP3A.240617.008/V.R4T2.26cec0e-80bb4e-80b757:user/release-keys"
   },
   "PACKAGES_REALME_P3_5G": [],
   "PACKAGES_REALME_P3_5G_DEVICE": {
-    "BRAND": "realme",
-    "DEVICE": "Realme P3 5G",
+    "profile_name": "REALME_P3_5G",
     "MANUFACTURER": "realme",
     "MODEL": "RMX5070",
-    "FINGERPRINT": "realme/RMX5070/RMX5070:15/SKQ1.230119.001/eng.user.20250415.155201:user/release-keys",
-    "PRODUCT": "RMX5070"
+    "FINGERPRINT": "realme/RMX5070/RMX5070:15/SKQ1.230119.001/eng.user.20250415.155201:user/release-keys"
   },
   "PACKAGES_REDMAGIC_9_PRO": [
     "com.facebook.rvx18"
   ],
   "PACKAGES_REDMAGIC_9_PRO_DEVICE": {
-    "BRAND": "nubia",
+    "profile_name": "REDMAGIC_9_PRO",
     "MANUFACTURER": "nubia",
-    "DEVICE": "NX769J",
-    "PRODUCT": "NX769J_V1A",
     "MODEL": "NX769J",
     "FINGERPRINT": "nubia/NX769J_V1A/NX769J:15/UKQ1.231201.001/20240329.181258:user/release-keys"
   },
@@ -368,96 +321,193 @@
     "com.facebook.tod"
   ],
   "PACKAGES_REDMAGIC_10_PRO_DEVICE": {
-    "BRAND": "nubia",
-    "DEVICE": "RedMagic 10 Pro",
+    "profile_name": "REDMAGIC_10_PRO",
     "MANUFACTURER": "ZTE",
     "MODEL": "NX789J",
-    "FINGERPRINT": "nubia/NX789J-UN/NX789J:15/AQ3A.240812.002/20241212.194919:user/release-keys",
-    "PRODUCT": "NX789J"
+    "FINGERPRINT": "nubia/NX789J-UN/NX789J:15/AQ3A.240812.002/20241212.194919:user/release-keys"
   },
   "PACKAGES_RENO8_PRO_5G": [
     "com.facebook.rvx25"
   ],
   "PACKAGES_RENO8_PRO_5G_DEVICE": {
-    "BRAND": "oppo",
-    "DEVICE": "Reno8 Pro 5G",
+    "profile_name": "RENO8_PRO_5G",
     "MANUFACTURER": "Oppo",
     "MODEL": "CPH2483",
-    "FINGERPRINT": "OPPO/CPH2483/OP5255L1:14/UKQ1.230917.001/T.202404021200:user/release-keys",
-    "PRODUCT": "Reno8 Pro 5G"
+    "FINGERPRINT": "OPPO/CPH2483/OP5255L1:14/UKQ1.230917.001/T.202404021200:user/release-keys"
   },
   "PACKAGES_RENO10_PRO_5G": [],
   "PACKAGES_RENO10_PRO_5G_DEVICE": {
-    "BRAND": "oppo",
-    "DEVICE": "Reno10 Pro 5G",
+    "profile_name": "RENO10_PRO_5G",
     "MANUFACTURER": "Oppo",
     "MODEL": "CPH2529",
-    "FINGERPRINT": "OPPO/CPH2529/OP5255L1:14/UKQ1.230917.001/S.202403150900:user/release-keys",
-    "PRODUCT": "Reno10 Pro 5G"
+    "FINGERPRINT": "OPPO/CPH2529/OP5255L1:14/UKQ1.230917.001/S.202403150900:user/release-keys"
   },
   "PACKAGES_ROG_PHONE_6D_ULTIMATE": [
-    "com.kiwibrowser.browser"
+    "com.anthropic.claude"
   ],
   "PACKAGES_ROG_PHONE_6D_ULTIMATE_DEVICE": {
-    "BRAND": "ASUS",
-    "DEVICE": "ROG Phone 6D Ultimate",
+    "profile_name": "ROG_PHONE_6D_ULTIMATE",
     "MANUFACTURER": "ASUS",
     "MODEL": "AI2203",
-    "FINGERPRINT": "ASUS/AI2203/ROG Phone 6D:14/UP1A.231005.007/20240315:user/release-keys",
-    "PRODUCT": "AI2203"
+    "FINGERPRINT": "ASUS/AI2203/ROG Phone 6D:14/UP1A.231005.007/20240315:user/release-keys"
   },
   "PACKAGES_VIVO_X60_CHINA": [],
   "PACKAGES_VIVO_X60_CHINA_DEVICE": {
-    "BRAND": "vivo",
-    "DEVICE": "X60",
+    "profile_name": "VIVO_X60_CHINA",
     "MANUFACTURER": "Vivo",
     "MODEL": "V2046A",
-    "FINGERPRINT": "vivo/v2046a/v2046a:14/UP1A.231005.007/PD2046_A_8.73.9:user/release-keys",
-    "PRODUCT": "X60"
+    "FINGERPRINT": "vivo/v2046a/v2046a:14/UP1A.231005.007/PD2046_A_8.73.9:user/release-keys"
   },
   "PACKAGES_X90": [],
   "PACKAGES_X90_DEVICE": {
-    "BRAND": "vivo",
-    "DEVICE": "X90",
+    "profile_name": "X90",
     "MANUFACTURER": "Vivo",
     "MODEL": "X90",
-    "FINGERPRINT": "vivo/v2218a/v2218a:14/UP1A.231005.007/PD2241_A_13.0.10.2:user/release-keys",
-    "PRODUCT": "X90"
+    "FINGERPRINT": "vivo/v2218a/v2218a:14/UP1A.231005.007/PD2241_A_13.0.10.2:user/release-keys"
   },
   "PACKAGES_X90_PRO": [],
   "PACKAGES_X90_PRO_DEVICE": {
-    "BRAND": "vivo",
-    "DEVICE": "X90 Pro",
+    "profile_name": "X90_PRO",
     "MANUFACTURER": "Vivo",
     "MODEL": "X90 Pro",
-    "FINGERPRINT": "vivo/v2219a/v2219a:14/UP1A.231005.007/PD2242_B_13.0.12.5:user/release-keys",
-    "PRODUCT": "X90 Pro"
+    "FINGERPRINT": "vivo/v2219a/v2219a:14/UP1A.231005.007/PD2242_B_13.0.12.5:user/release-keys"
   },
   "PACKAGES_X90_PRO_PLUS": [],
   "PACKAGES_X90_PRO_PLUS_DEVICE": {
-    "BRAND": "vivo",
-    "DEVICE": "X90 Pro+",
+    "profile_name": "X90_PRO_PLUS",
     "MANUFACTURER": "Vivo",
     "MODEL": "X90 Pro+",
-    "FINGERPRINT": "vivo/v2220a/v2220a:14/UP1A.231005.007/PD2220_C_14.0.1.8:user/release-keys",
-    "PRODUCT": "X90 Pro+"
+    "FINGERPRINT": "vivo/v2220a/v2220a:14/UP1A.231005.007/PD2220_C_14.0.1.8:user/release-keys"
   },
   "PACKAGES_XIAOMI_11T_PRO": [],
   "PACKAGES_XIAOMI_11T_PRO_DEVICE": {
-    "BRAND": "Xiaomi",
-    "DEVICE": "Xiaomi 11T Pro",
+    "profile_name": "XIAOMI_11T_PRO",
     "MANUFACTURER": "Xiaomi",
     "MODEL": "2107113SG",
-    "FINGERPRINT": "Xiaomi/2107113SI/Mi 11T Pro:13/RKQ1.211001.001/20230410:user/release-keys",
-    "PRODUCT": "2107113SG"
+    "FINGERPRINT": "Xiaomi/2107113SI/Mi 11T Pro:13/RKQ1.211001.001/20230410:user/release-keys"
   },
   "PACKAGES_Y78_5G": [],
   "PACKAGES_Y78_5G_DEVICE": {
-    "BRAND": "vivo",
-    "DEVICE": "Y78 5G",
+    "profile_name": "Y78_5G",
     "MANUFACTURER": "Vivo",
     "MODEL": "Y78 5G",
-    "FINGERPRINT": "vivo/v2278/v2278:14/UP1A.231005.007/PD2243_A_13.1.9.0:user/release-keys",
-    "PRODUCT": "Y78 5G"
+    "FINGERPRINT": "vivo/v2278/v2278:14/UP1A.231005.007/PD2243_A_13.1.9.0:user/release-keys"
+  },
+  "PACKAGES_POCO_F8_PRO": [],
+  "PACKAGES_POCO_F8_PRO_DEVICE": {
+    "profile_name": "POCO F8 Pro",
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "POCO F8 Pro",
+    "FINGERPRINT": "POCO/annibale_global/annibale:15/AQ3A.250226.002/OS3.0.2.0.WPKMIXM:user/release-keys"
+  },
+  "PACKAGES_ASUS_ASUSAI2501": [],
+  "PACKAGES_ASUS_ASUSAI2501_DEVICE": {
+    "DEVICE": "ASUSAI2501",
+    "MANUFACTURER": "asus",
+    "MODEL": "ASUSAI2501",
+    "FINGERPRINT": "asus/WWAI2501/ASUSAI2501:15/AQ3A.240829.003/36.0810.1810.43-0:user/release-keys"
+  },
+  "PACKAGES_REDMI_NOTE_15_PRO+": [],
+  "PACKAGES_REDMI_NOTE_15_PRO+_DEVICE": {
+    "profile_name": "REDMI Note 15 Pro+",
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "REDMI Note 15 Pro+",
+    "FINGERPRINT": "Redmi/flourite/flourite:14/UKQ1.240624.001/OS2.0.204.0.VPRCNXM:user/release-keys"
+  },
+  "PACKAGES_PIXEL_9": [],
+  "PACKAGES_PIXEL_9_DEVICE": {
+    "profile_name": "Pixel 9",
+    "MANUFACTURER": "Google",
+    "MODEL": "Pixel 9",
+    "FINGERPRINT": "google/tokay_beta/tokay:16/BP41.250916.009.A1/14246511:user/release-keys"
+  },
+  "PACKAGES_XIAOMI_17": [],
+  "PACKAGES_XIAOMI_17_DEVICE": {
+    "profile_name": "Xiaomi 17",
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "Xiaomi 17",
+    "FINGERPRINT": "Xiaomi/pudding/pudding:16/BQ2A.250705.001-BP2A.250605.031.A3/OS3.0.7.0.WPCCNXM:user/release-keys"
+  },
+  "PACKAGES_XIAOMI_PAD_8": [],
+  "PACKAGES_XIAOMI_PAD_8_DEVICE": {
+    "profile_name": "Xiaomi Pad 8",
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "Xiaomi Pad 8",
+    "FINGERPRINT": "Xiaomi/yupei/yupei:15/AQ3A.250226.002/OS3.0.4.0.WPZCNXM:user/release-keys"
+  },
+  "PACKAGES_XIAOMI_PAD_8_PRO": [],
+  "PACKAGES_XIAOMI_PAD_8_PRO_DEVICE": {
+    "profile_name": "Xiaomi Pad 8 Pro",
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "Xiaomi Pad 8 Pro",
+    "FINGERPRINT": "Xiaomi/piano/piano:15/AQ3A.250226.002/OS3.0.4.0.WPYCNXM:user/release-keys"
+  },
+  "PACKAGES_POCO_F6": [],
+  "PACKAGES_POCO_F6_DEVICE": {
+    "profile_name": "POCO F6",
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "POCO F6",
+    "FINGERPRINT": "POCO/peridot_global/peridot:14/UKQ1.240624.001/OS2.0.204.0.VNPMIXM:user/release-keys"
+  },
+  "PACKAGES_XIAOMI_15TPRO": [],
+  "PACKAGES_XIAOMI_15TPRO_DEVICE": {
+    "profile_name": "Xiaomi 15T Pro",
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "Xiaomi 15T Pro",
+    "FINGERPRINT": "Xiaomi/klimt_global/klimt:15/AP3A.240905.015.A2/OS2.0.201.0.VOSJPXM:user/release-keys"
+  },
+  "PACKAGES_XIAOMI_15T": [],
+  "PACKAGES_XIAOMI_15T_DEVICE": {
+    "profile_name": "Xiaomi 15T",
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "Xiaomi 15T",
+    "FINGERPRINT": "Xiaomi/goya_eea/goya:15/AP3A.240905.015.A2/OS2.0.207.0.VOEEUXM:user/release-keys"
+  },
+  "PACKAGES_XIAOMI_MIXFLIP2": [],
+  "PACKAGES_XIAOMI_MIXFLIP2_DEVICE": {
+    "profile_name": "Xiaomi MIX Flip 2",
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "Xiaomi MIX Flip 2",
+    "FINGERPRINT": "Xiaomi/bixi/bixi:15/AQ3A.241229.001/OS2.0.108.0.VOHCNXM:user/release-keys"
+  },
+  "PACKAGES_XIAOMI_15SPRO": [],
+  "PACKAGES_XIAOMI_15SPRO_DEVICE": {
+    "profile_name": "Xiaomi 15S Pro",
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "Xiaomi 15S Pro",
+    "FINGERPRINT": "Xiaomi/dijun/dijun:15/AP3A.240905.015.A2/OS2.0.121.0.VODCNXM:user/release-keys"
+  },
+  "PACKAGES_XIAOMI_15ULTRA": [],
+  "PACKAGES_XIAOMI_15ULTRA_DEVICE": {
+    "profile_name": "Xiaomi 15 Ultra",
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "Xiaomi 15 Ultra",
+    "FINGERPRINT": "Xiaomi/xuanyuan_global/xuanyuan:15/AQ3A.240912.001/OS2.0.202.0.VOAMIXM:user/release-keys"
+  },
+  "PACKAGES_Xiaomi_Pad_7_Pro": [],
+  "PACKAGES_Xiaomi_Pad_7_Pro_DEVICE": {
+    "profile_name": "Xiaomi Pad 7 Pro",
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "Xiaomi Pad 7 Pro",
+    "FINGERPRINT": "Xiaomi/muyu_global/muyu:14/UKQ1.240624.001/OS2.0.101.0.VOYMIXM:user/release-keys",
+    "DEBUG": false
+  },
+  "PACKAGES_Xiaomi_17_Pro": [
+    "mark.via.thaomaitam"
+  ],
+  "PACKAGES_Xiaomi_17_Pro_DEVICE": {
+    "profile_name": "Xiaomi 17 Pro",
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "Xiaomi 17 Pro",
+    "FINGERPRINT": "Xiaomi/pandora/pandora:16/BQ2A.250705.001-BP2A.250605.031.A3/OS3.0.7.0.WBLCNXM:user/release-keys",
+    "DEBUG": false
+  },
+  "PACKAGES_Pixel_9_Pro_Fold": [],
+  "PACKAGES_Pixel_9_Pro_Fold_DEVICE": {
+    "profile_name": "Pixel 9 Pro Fold",
+    "MANUFACTURER": "Google",
+    "MODEL": "Pixel 9 Pro Fold",
+    "FINGERPRINT": "google/comet_beta/comet:16/BP41.250916.015.A1/14394230:user/release-keys",
+    "DEBUG": false
   }
 }
